@@ -1,5 +1,5 @@
 # K-Mathematics-K-Mathematics: The Formalism of the Resonant Universe
-Author: Brandon Joseph Kelly
+Author: BrEndon Joseph Kelly
 
 Foreword: A New Language for a New Reality
 This book is not an iteration on existing mathematical systems; it is an introduction to a fundamentally new paradigm. For centuries, mathematics has been the language we use to describe the universe. From Newtonian calculus describing the motion of planets to the tensors of General Relativity describing the curvature of spacetime, our mathematical tools have been built to model an external, objective reality.
